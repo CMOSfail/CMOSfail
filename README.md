@@ -1,9 +1,9 @@
 # 💫 About Me:
-🇮🇱 Itamar Itzhaki - 17-year-old software developer from Israel. 🇮🇱<br>
+🇮🇱 Itamar Itzhaki - 18-year-old software developer from Israel. 🇮🇱<br>
 🎓 Majoring in Software Engineering and Physics in high school. 🎓<br>
-👩‍💻 Former web developer at [AssafMedia](https://assafmedia.co.il/). 👩‍💻<br>
+👩‍💻 Lead Software Engineer at [Moshenashvili Inc.]([https://assafmedia.co.il/](https://www.linkedin.com/company/moshenashvili-inc/)). 👩‍💻<br>
 🌍 Volunteer CEO of non-profit [MegaByte ("מגה-בית")](https://www.mbl.org.il/). Donated over 5,000 computers to families in need during the COVID pandemic. 🌍<br>
-🔧 Specializes in WebDev, WordPress, Java/C#, Python, IT, and networking services. 🔧<br>
+🔧 Specializes in Cyber Security, Operating Systems, Web Development, WordPress, Java/C#, Python, IT, and networking services. 🔧<br>
 🎹 Passionate about music: plays the piano and various brass instruments (Trombone, Trumpet, Tuba, Euphonium). 🎹<br>
 🚀 Ever-curious learner with a deep interest in both computer hardware and software. 🚀<br>
 
@@ -19,5 +19,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CMOSfail&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
