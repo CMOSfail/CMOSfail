@@ -1,7 +1,7 @@
 # 💫 About Me:
-🇮🇱 Itamar Itzhaki - 18-year-old software developer from Israel. 🇮🇱<br>
-🎓 Majoring in Software Engineering and Physics in high school. 🎓<br>
-👩‍💻 Lead Software Engineer at [Moshenashvili Inc.]([https://assafmedia.co.il/](https://www.linkedin.com/company/moshenashvili-inc/)). 👩‍💻<br>
+🇮🇱 Itamar Itzhaki - 18-year-old Cyber Security Researcher, Pentester and Software Developer from Israel. 🇮🇱<br>
+🎓 Majored in Software Engineering and Physics in high school. 🎓<br>
+👩‍💻 Lead Software Engineer at [Moshenashvili Inc.]((https://www.linkedin.com/company/moshenashvili-inc/)). 👩‍💻<br>
 🌍 Volunteer CEO of non-profit [MegaByte ("מגה-בית")](https://www.mbl.org.il/). Donated over 5,000 computers to families in need during the COVID pandemic. 🌍<br>
 🔧 Specializes in Cyber Security, Operating Systems, Web Development, WordPress, Java/C#, Python, IT, and networking services. 🔧<br>
 🎹 Passionate about music: plays the piano and various brass instruments (Trombone, Trumpet, Tuba, Euphonium). 🎹<br>
